@@ -1,2 +1,2 @@
-_"link a Facebook"_[Click aqui](Descargas_logodefaceook_estebancedillo)
+_"link a Facebook"_[Click aqui]()
 [!logodefacebook_estebancedillo](Descargas_logodefaceook_estebancedillo)
